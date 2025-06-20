@@ -15,7 +15,5 @@ CourseCraft is a responsive web application designed to help users explore and l
 - **Media**: Images and videos hosted locally
 - **Deployment**: GitHub Pages
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CourseCraft.git
+## Deployment
+The project is deployed on GitHub Pages at https://Satishrasawar.github.io/CourseCraft
