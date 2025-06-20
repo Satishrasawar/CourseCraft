@@ -1,0 +1,33 @@
+/* Custom styles */
+.hero-section {
+    background-color: #16a34a; /* Matches bg-green-600 */
+}
+
+.testimonial-content {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.testimonial-content.expanded {
+    display: block;
+    -webkit-line-clamp: unset;
+}
+.logo {
+    max-width: 150px;
+    height: auto;
+    display: block;
+}
+@media (max-width: 768px) {
+    .logo {
+        max-width: 100px;
+    }
+}
+/* Ensure form inputs have consistent styling */
+input:focus {
+    outline: none;
+    border-color: #2563eb; /* Matches blue-600 */
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
