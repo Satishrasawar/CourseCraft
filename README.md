@@ -19,5 +19,5 @@ CourseCraft is a responsive web application designed to help users explore and l
 To run this project locally on your machine:
 1. Clone the repository:
    ```bash
-   git clone https://satishrasawar.github.io/CourseCraft/
+   https://satishrasawar.github.io/CourseCraft/
    
